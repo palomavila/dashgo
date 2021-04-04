@@ -1,5 +1,5 @@
-<div align="left">
 # 💻 Sobre o projeto DashGo:
+
 Criado no Chapter IV do bootcamp Ignite, o intuito foi a criação de uma dashboard responsiva utilizando Chakra UI.
 
 # 🚀 Start this project:
