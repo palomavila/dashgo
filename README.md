@@ -2,6 +2,10 @@
 
 Criado no Chapter IV do bootcamp Ignite, o intuito foi a criação de uma dashboard responsiva utilizando Chakra UI.
 
+## 💯 Preview:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://dashgo-palomavila.vercel.app/)
+
 # 🚀 Start this project:
 
 ```bash
